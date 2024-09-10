@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9ec9e064-08fd-405c-8bfc-b4a0409aceab)# EXNO2DS
+# EXNO2DS
 
 ## NAME: K KESAVA SAI
 ## REGISTER NUMBER: 212223230105
